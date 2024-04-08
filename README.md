@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on reinforcement learning
+- - 🌱 I’m currently learning C++
 <!--
 **TylerBernardo/TylerBernardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
